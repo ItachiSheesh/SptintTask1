@@ -1,0 +1,70 @@
+.navbar{
+  color: white;
+  display: flex;
+  background-color: darkred;
+  justify-content: space-between;
+  padding-left: 20px;
+  align-items: center;
+}
+.menu{
+  display: flex;
+  justify-content: flex-end;
+  opacity: .6;
+}
+.menu a{
+  text-decoration: none;
+  color: aliceblue;
+  padding: 10px;
+}
+.container{
+  background-color: #308c8c;
+  display: flex;
+  margin-top: 20px;
+  min-height: 50px;
+}
+.news{
+  display: flex;
+  justify-content: space-around;
+}
+.img{
+  padding: 20px;
+}
+.words{
+  padding: 20px;
+}
+.h1{
+  text-align: center;
+}
+.latest{
+  display: flex;
+  justify-content: space-around;
+}
+.new{
+  border: 1px solid grey;
+  width: 24%;
+  text-align: center;
+}
+.new1{
+  border: 1px solid grey;
+  width: 24%;
+  text-align: center;
+}
+.but{
+  padding: 10px;
+}
+button{
+  background-color: darkred;
+  color: white;
+  text-decoration: none;
+  text-align: center;
+}
+.new2{
+  border: 1px solid grey;
+  width: 24%;
+  text-align: center;
+}
+.new3{
+  border: 1px solid grey;
+  width: 24%;
+  text-align: center;
+}
